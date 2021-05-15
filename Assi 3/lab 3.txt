@@ -1,0 +1,4 @@
+Hi All,  in this lab you will code the following problem
+problem statement : Given a matrix whose rows and columns are sorted.
+Design and implement an efficient algorithm for searching a given element. 
+Take a small matrix say 4x4 which satifies the above condition to prove the correctness of your algorithm.
